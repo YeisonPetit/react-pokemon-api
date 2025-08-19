@@ -1,6 +1,6 @@
 import React from "react";
 import { useState, useEffect } from "react";
-import PokemonsCart from "./components/pokemonsCart";
+import PokemonsCart from "./components/PokemonsCart";
 
 function App() {
   const [pokemonData, setPokemon] = useState([])
